@@ -2,6 +2,7 @@
 lab1 assignment
 
 Q.1.
+
 FRs:
 1. Searching for a book: users would be able to search up books of any category,genre,language or subject
 
@@ -35,6 +36,7 @@ NFRs:
 
 
 Q.2.
+
 Scope: 
 
 Scope A significant portion of people have some sort of hearing impairment. The suggested application meets the unique requirements of its consumers. Using their Android devices, users of this software can identify various sounds in their immediate environment. When it detects these specified sounds, such as vehicle horns or alarms, it monitors the area in real time and notifies the user via haptic feedback. The application enables users to keep aware of their surroundings while also staying secure and awake.
