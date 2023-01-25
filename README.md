@@ -24,6 +24,7 @@ FRs:
 
 
 
+
 NFRs:
 1. Scalability: can handle large no. of users
 
@@ -31,8 +32,9 @@ NFRs:
 
 3. Capacity: can handle multiple active users simultaneously
 
-4. Accessibility: can be used within the institute LAN
+4. Accessibility:  GUI based Web application with simple and interactive user experience that can be used within the institute LAN
 
+5. In case of a server failure, the system should recover the previously held data
 
 
 Q.2.
@@ -45,26 +47,33 @@ Features:
 
 1. AI which immediately recognize sounds (eg. car horns and crying babies)
 
-2. Alerts the recognized sounds to the user
+2. Haptic Alert feature
 
 3. Gives the distance from user to the sound source
+
+4. Real time surveillance with minimal lag
+
+5. customizing the alerts, according to the users prefrences
+
+6. libraries with predetermined sounds
 
 
 Non-functional aspects:
 
 1. Constant logging is necessary for the user
 
-2. Easy to use interface
+2. Easy to use and interactive interface
 
 3. Supporting help desk/center, in cases where user has some difficulties with the software
 
-4. Security and authentication of users
+4.Relaibility, the application should keep working in the background and gives accurate sound alerts
 
 5. Maintenance
 
 6. Effective battery usage
 
-7. Also can add feature that can be operated offline
+7. Reset option to convert all the changes made into default setting
 
-8. speed: low latency
+
+
 
