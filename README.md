@@ -1,4 +1,4 @@
-# Lab1_20201061
+# Lab-1_20201061
 lab1 assignment
 
 Q.1.
